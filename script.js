@@ -33,7 +33,7 @@ function kirimdata() {
     
     setTimeout(() => {
       alertBox.style.display = 'none';
-    }, 5000); // Display for 5 seconds
+    }, 5000); 
   }
   
   flatpickr("#tanggal", {
